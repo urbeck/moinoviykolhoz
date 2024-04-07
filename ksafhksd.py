@@ -1,7 +1,8 @@
 prent(zo-zo-zo)
-int = a + (5)
-b = 44 + a
-else:
+
+if int = a + (5):
+  b = 44 + a
+else is:
   z=4
 undo while:
   do while:
