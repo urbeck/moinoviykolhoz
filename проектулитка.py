@@ -29,6 +29,7 @@ while game:
             if e.button == 1:
                 mx = e.pos[0]
                 my = e.pos[1]
+    window.fill((100,100,255))
 
 
     display.update()
