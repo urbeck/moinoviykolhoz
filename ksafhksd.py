@@ -4,6 +4,7 @@ int = a + 5
 
 if int = a + 5:
   b = 44 + a
+  return b
 else:
   z=4
 while True:
