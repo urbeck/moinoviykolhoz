@@ -5,6 +5,7 @@ fps = time.Clock()
 game = True
 while game:
 
-window.exec_()
+
+  display.update()
 
 
