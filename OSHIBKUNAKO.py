@@ -1,6 +1,6 @@
 print('zo-zo-zo')
 a = 0
-if a + 5 == str:
+if a + 5 == 5:
   b = 44 + a
 else:
   z = 44
