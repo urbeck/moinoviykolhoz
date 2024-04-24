@@ -1,6 +1,6 @@
-print(zo-zo-zo)
-a != 0
-if a + 5 == int:
+print('zo-zo-zo')
+a = 0
+if a + 5 == str:
   b = 44 + a
 else:
   z = 44
